@@ -18,7 +18,6 @@ const sponsors = [
   { name: "Community Sponsor", description: "Community benefits for our sponsors..." },
   { name: "Event Sponsor", description: "Event benefits for our sponsors..." },
 ];
-
 const App = () => {
   const [lastScrollPosition, setLastScrollPosition] = useState(0);
   const sponsorshipSectionRef = useRef(null);
