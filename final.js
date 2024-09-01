@@ -1,6 +1,5 @@
 import React, { useEffect, useState, useRef } from "react";
 import "./App.css";
-
 const sponsors = [
   { name: "Main Sponsor", description: "Exclusive benefits for our main sponsor...", image: "main-sponsor.png" },
   { name: "Main Sponsor", description: "Exclusive benefits for our main sponsor...", image: "main-sponsor.png" },
